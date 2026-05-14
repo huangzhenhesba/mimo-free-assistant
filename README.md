@@ -1,29 +1,41 @@
-# 🎉 MIMO 限时免费100T FREE TOKEN
+# MIMO 限时免费 - 小米开发者智能助手
 
-> 基于 MiMo-V2.5 的小米开发者智能助手
-> Xiaomi Developer AI Assistant Powered by MiMo-V2.5
+一个基于小米MiMo-V2.5-Pro模型的免费开发者专属AI助手，无需注册登录，开箱即用。专为解决开发者日常编程问题设计，支持代码生成、Bug修复、文档编写、技术问答和代码解释。
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Version](https://img.shields.io/badge/Version-Latest-blue)
-![Free](https://img.shields.io/badge/Token-100T%20FREE-red)
+## ✨ 核心功能
+- 🚀 **纯前端实现**：无需后端服务器，部署即可用
+- 💻 **开发者专属**：针对编程场景优化，支持多种编程语言
+- 📝 **代码高亮**：自动识别并高亮显示代码块
+- 💬 **多轮对话**：支持上下文理解，连续对话更流畅
+- 📱 **响应式设计**：完美适配电脑、平板和手机
+- 💾 **本地存储**：对话历史自动保存到浏览器本地
 
-## 🌟 Features / 功能
+## 🛠️ 技术栈
+- HTML5 + CSS3 + JavaScript
+- Tailwind CSS 3.0
+- 小米MiMo-V2.5-Pro API
+- Marked.js（Markdown解析）
+- Highlight.js（代码高亮）
 
-- 🆓 **免费 100T Token** — 小米 MiMo Orbi 限时福利
-- 🤖 **MiMo V2.5** — 小米自研大模型
-- 💬 **智能对话** — 多轮对话 + 上下文理解
-- 🔧 **开发者工具** — API 接口 + SDK
+## 🌐 在线演示
+https://mimo-free-assistant.vercel.app/
 
-## 🚀 Quick Start / 快速开始
+## 🚀 使用方法
+1. 打开在线演示链接
+2. 输入你的MiMo API Key（在小米开放平台获取）
+3. 在输入框中输入你的编程问题或需求
+4. 点击发送按钮，即可获得AI的专业回答
 
-```bash
-npm install
-npm start
-```
+## 📅 未来开发计划
+- [ ] 增加多模型切换功能（支持MiMo、Claude、DeepSeek）
+- [ ] 增加代码片段一键复制功能
+- [ ] 增加文件上传和代码分析功能
+- [ ] 增加常用代码模板库
+- [ ] 增加暗黑模式支持
+- [ ] 优化移动端输入体验
 
-## 📝 Author / 作者
+## 🤝 贡献
+欢迎提交Issue和Pull Request来帮助改进这个项目！
 
-> Built with MIMO 🦋 | Powered by Xiaomi MiMo
-
-⭐ Star this repo if you find it useful!
+## 📄 许可证
+MIT License
