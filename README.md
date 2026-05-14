@@ -18,7 +18,7 @@
 - Highlight.js（代码高亮）
 
 ## 🌐 在线演示
-[https://mimo-free-assistant.vercel.app/](https://huangzhenhesba.github.io/mimo-free-assistant/index.html)
+https://huangzhenhesba.github.io/mimo-free-assistant/index.html
 
 ## 🚀 使用方法
 1. 打开在线演示链接
